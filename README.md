@@ -1,1 +1,2 @@
 # Digital_Marketing_Compaign
+Digital marketing campaigns often struggle to accurately predict which customers will convert, leading to wasted advertising money and missed opportunities. This project aims to build a machine learning model that uses customer data to predict conversions. By identifying likely converters, the model will help improve targeting, reduce costs, and increase the success of marketing efforts.
